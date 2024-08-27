@@ -7,6 +7,7 @@ version: '2024-08-13'
 
 baseurl: '' # the subpath of your site, e.g. /blog
 url: https://www.andreaburan.com # the base hostname & protocol for your site
+destination: docs/
 
 timezone: Europe/Rome
 encoding: utf-8
