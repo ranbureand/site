@@ -1,0 +1,108 @@
+/* Copyright (c) 2017 Andrea Buran [www.andreaburan.com]. All rights reserved */
+
+/*
+** Screen dimensions
+*/
+
+$waistline: 1440;
+
+/*
+** Variables
+*/
+
+$base-unit:                 4px;
+
+$browser-default-font-size: 16px;
+
+$base-font-size:            16px;
+$base-font-line:            $base-unit*6.5; //24px
+
+$m-base-rhythm:             $base-unit*6; //24px
+$d-base-rhythm:             $base-unit*10; //40px
+
+$planet-diameter:           100%*8;
+
+/*
+** Font sizes and line heights
+** m : mobile
+** t : tablet
+** d : desktop
+*/
+
+$ms-super-large-size:   24px;
+$ms-super-large-line:   $base-unit*9; //36px
+
+$mm-super-large-size:   32px;
+$mm-super-large-line:   $base-unit*12; //48px
+
+$t-super-large-size:    48px;
+$t-super-large-line:    $base-unit*16; //64px
+
+$d-super-large-size:    64px;
+$d-super-large-line:    $base-unit*20; //80px
+
+$m-extra-large-size:    22px;
+$m-extra-large-line:    $base-unit*8;  //28px
+
+$d-extra-large-size:    26px;
+$d-extra-large-line:    $base-unit*10; //40px
+
+$m-large-size:          18px;
+$m-large-line:          $base-unit*7;  //28px
+
+$d-large-size:          22px;
+$d-large-line:          $base-unit*8;  //32px
+
+$m-medium-size:         16px;
+$m-medium-line:         $base-unit*6.5;  //28px
+
+$d-medium-size:         16px;
+$d-medium-line:         $base-unit*6.5;  //28px
+
+$m-small-size:          14px;
+$m-small-line:          $base-unit*6;  //24px
+
+$d-small-size:          14px;
+$d-small-line:          $base-unit*6;  //24px
+
+$m-tiny-size:           13px;
+$m-tiny-line:           $base-unit*5;  //20px
+
+$d-tiny-size:           13px;
+$d-tiny-line:           $base-unit*5;  //20px
+
+/*
+** Font weights
+*/
+
+$bold:      700;
+$medium:    500;
+$normal:    400;
+$light:     300;
+
+/*
+** Grid
+*/
+
+$column-width: 72px;
+
+/*
+** Guts and indents
+*/
+
+$m-gut: 8px;  // mobile gut
+$d-gut: 16px; // desktop gut
+
+/*
+** Border widths
+*/
+
+$border-width:        2px;
+$field-border-width:  2px;
+$button-border-width: 2px;
+
+/*
+** Tempo
+*/
+
+$duration: 0.2s;
