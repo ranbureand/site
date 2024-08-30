@@ -5,7 +5,7 @@ email: hello@andreaburan.com
 description: 'Andrea Buran, product designer & leader, at your service. I design digital services and products, solving people’s problems and helping organizations reach their goals.'
 version: '2024-08-13'
 
-baseurl: '' # the subpath of your site, e.g. /blog
+baseurl: '/site' # the subpath of your site, for example '/blog'
 url: https://www.andreaburan.com # the base hostname & protocol for your site
 destination: docs/
 
