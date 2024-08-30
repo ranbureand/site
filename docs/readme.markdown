@@ -31,3 +31,9 @@ Run the following code snippet in the Terminal:
 
     cd /Applications/MAMP/htdocs/sitefolio
     bundle exec jekyll serve --baseurl ''
+
+## Serve
+
+Run the following code snippet in the Terminal:
+
+    jekyll build
